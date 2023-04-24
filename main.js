@@ -1,6 +1,6 @@
-import {Ptica} from './ptica.js';
-import {Prepreka} from './prepreka.js'
-import {Cetverougao} from './cetverougao.js';
+import Ptica from './ptica.js';
+import Prepreka from './prepreka.js'
+import Cetverougao from './cetverougao.js';
 
 const sirina = 960;
 const visina = 480;
