@@ -1,4 +1,4 @@
-export class Prepreka {
+class Prepreka {
     constructor(sirina, visina, sirinaPrepreke, razmak, minRazmak, brzinaIgre){
         this.sirina = sirina;
         this.visina = visina;
@@ -48,3 +48,5 @@ export class Prepreka {
         this.brzinaIgre = novaBrzina;
     }
 }
+
+export default Prepreka;
