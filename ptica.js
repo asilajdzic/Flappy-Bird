@@ -1,4 +1,4 @@
-export class Ptica {
+class Ptica {
     constructor(sirina, visina, velicina, gravitacija, ubrzanje)
     {
         this.sirina = sirina;
@@ -33,3 +33,5 @@ export class Ptica {
         return this.y + this.velicina;
     }
 }
+
+export default Ptica;
